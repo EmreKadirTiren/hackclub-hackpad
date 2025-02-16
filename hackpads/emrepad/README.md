@@ -17,11 +17,14 @@
 - 1x Plate for on the PCB
 
 ## Firmware
-Programmed it so its a simple numpad.
+Programmed to open apps or do custom things with a layer button.
 
 Links:
 - https://github.com/EmreKadirTiren/
 - https://github.com/EmreKadirTiren/HackPad
 
 
+---
 
+# V2 Update:
+I solderd my hackpad. But when i was testing the 4 keys next to each other wasn't working I checked my code but discoverd i accidentaly burned one of the wires on the bord off. I tried to disasemble so i coul fix it only I broke a few keys :d. Because i Now I only have 1 pcb left and 2 diodes
